@@ -2,6 +2,8 @@
 
 A Python-based tool to convert `.dds` textures into various maps (Albedo, AO, Normal, Roughness, Metal) for games powered by the Dagor Engine (e.g., War Thunder, Enlisted). 
 
+![preview screenshot](preview.png "preview")
+
 ## Features
 
 - **Customizable Postfixes**: Define your own postfixes
